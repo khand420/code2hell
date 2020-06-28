@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #be3131;
+  background-color: #ffad59;
 }
 
 .overlay-mf {
@@ -476,8 +476,8 @@ a:hover {
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: rgb(255, 255, 255);
-  padding-top: 2px;
-  padding-bottom: 3px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
@@ -993,7 +993,7 @@ a:hover {
 }
 
 .box-comments .list-comments span {
-  color: #1e1e1e;
+  color: #221e1e;
   font-style: italic;
 }
 
